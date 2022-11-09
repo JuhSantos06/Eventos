@@ -1,0 +1,18 @@
+.login-content{
+    width: 100%;
+    padding: 15px;
+    margin:auto;
+    background-color: rgb(163, 224, 245);
+    height: 100vh;
+}
+
+.btn-login{
+    background-color: crimson;
+    color:rgb(163, 224, 245);
+    font-weight: 600;
+}
+
+.btn-login:hover{
+    background-color: rgb(221, 93, 119);
+    color:rgb(163, 224, 245);
+}
